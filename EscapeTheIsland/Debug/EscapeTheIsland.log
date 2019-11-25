@@ -1,0 +1,5 @@
+﻿  GameBoard.cpp
+C:\Users\mcron\source\repos\EscapeTheIsland\EscapeTheIsland\GameBoard.cpp(5,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\mcron\source\repos\EscapeTheIsland\EscapeTheIsland\GameBoard.cpp(6,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\mcron\source\repos\EscapeTheIsland\EscapeTheIsland\GameBoard.cpp(53,16): warning C4244:  'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EscapeTheIsland.vcxproj -> C:\Users\mcron\source\repos\EscapeTheIsland\Debug\EscapeTheIsland.exe
